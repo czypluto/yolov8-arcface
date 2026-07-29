@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# IDE
+.idea/
+
+# Windows
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Training runs/outputs
+runs/
+
+# Large datasets
+*.zip
+*.npz
+
+# YOLO model weights (optional, uncomment to ignore)
+# *.pt
+
+# Search results
+search_results/
+
+# Face dataset images
+face_dataset/
+faces/
