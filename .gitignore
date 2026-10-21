@@ -19,8 +19,8 @@ runs/
 *.zip
 *.npz
 
-# YOLO model weights (optional, uncomment to ignore)
-# *.pt
+# YOLO model weights
+*.pt
 
 # Search results
 search_results/
@@ -28,3 +28,19 @@ search_results/
 # Face dataset images
 face_dataset/
 faces/
+
+# Local learning notes (not part of the project)
+*入门学习指南.md
+项目总结.md
+
+# Local demo / test media
+bus.jpg
+che.mp4
+h.png
+langdog.jpg
+arcface_bus_result.jpg
+*.mp4
+
+# Local uploads / temp directories
+.uploads/
+C:yolo_learningtest_batch/
